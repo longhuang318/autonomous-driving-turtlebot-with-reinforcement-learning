@@ -1,4 +1,4 @@
-# autonomous-driving-turtlebot-with-reinforcement-learning
+# autonomous-driving-turtlebot-with-reinforcement-learning （gazebo, TurtleBot,  Q-table）
 Implementation of Q-learning algorithm and Feedback control for the mobile robot (turtlebot3_burger) in ROS.
 
  * Algorithm is implemented from scratch.
